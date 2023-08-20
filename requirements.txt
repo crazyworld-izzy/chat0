@@ -1,4 +1,4 @@
-Abg==2.3.3
+Abg==2.3.6
 aiohttp
 requests
 pySmartDL
